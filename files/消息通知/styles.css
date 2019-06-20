@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u134_div {
+#u394_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -27,14 +27,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u134 {
+#u394 {
   position:absolute;
   left:0px;
   top:0px;
   width:1024px;
   height:768px;
 }
-#u135 {
+#u395 {
   position:absolute;
   left:2px;
   top:376px;
@@ -42,7 +42,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-.u137_div {
+.u397_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -71,7 +71,7 @@
   text-align:left;
   line-height:20px;
 }
-.u137 {
+.u397 {
   position:absolute;
   left:0px;
   top:0px;
@@ -83,7 +83,7 @@
   text-align:left;
   line-height:20px;
 }
-.u138 {
+.u398 {
   position:absolute;
   left:20px;
   top:10px;
@@ -91,7 +91,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-.u139_div {
+.u399_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -109,7 +109,7 @@
   text-align:left;
   line-height:24px;
 }
-.u139 {
+.u399 {
   position:absolute;
   left:177px;
   top:11px;
@@ -120,14 +120,14 @@
   text-align:left;
   line-height:24px;
 }
-.u140 {
+.u400 {
   position:absolute;
   left:10px;
   top:1px;
   width:690px;
   word-wrap:break-word;
 }
-.u141_div {
+.u401_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -140,34 +140,34 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome Regular', 'FontAwesome';
-  font-weight:400;
+  font-family:'FontAwesome';
+  font-weight:410;
   font-style:normal;
   font-size:40px;
   color:#CCCCCC;
   line-height:20px;
 }
-.u141 {
+.u401 {
   position:absolute;
   left:14px;
   top:0px;
   width:191px;
   height:70px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
-  font-weight:400;
+  font-family:'FontAwesome';
+  font-weight:410;
   font-style:normal;
   font-size:40px;
   color:#CCCCCC;
   line-height:20px;
 }
-.u142 {
+.u402 {
   position:absolute;
   left:0px;
   top:25px;
   width:191px;
   word-wrap:break-word;
 }
-.u143_div {
+.u403_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -188,7 +188,7 @@
   text-align:right;
   line-height:20px;
 }
-.u143 {
+.u403 {
   position:absolute;
   left:849px;
   top:11px;
@@ -202,84 +202,84 @@
   text-align:right;
   line-height:20px;
 }
-.u144 {
+.u404 {
   position:absolute;
   left:10px;
   top:1px;
   width:138px;
   word-wrap:break-word;
 }
-#u136-1 {
+#u396-1 {
   position:absolute;
   left:0px;
   top:0px;
   width:1024px;
   height:70px;
 }
-#u136-2 {
+#u396-2 {
   position:absolute;
   left:0px;
   top:70px;
   width:1024px;
   height:70px;
 }
-#u136-3 {
+#u396-3 {
   position:absolute;
   left:0px;
   top:140px;
   width:1024px;
   height:70px;
 }
-#u136-4 {
+#u396-4 {
   position:absolute;
   left:0px;
   top:210px;
   width:1024px;
   height:70px;
 }
-#u136-5 {
+#u396-5 {
   position:absolute;
   left:0px;
   top:280px;
   width:1024px;
   height:70px;
 }
-#u136-6 {
+#u396-6 {
   position:absolute;
   left:0px;
   top:350px;
   width:1024px;
   height:70px;
 }
-#u136-7 {
+#u396-7 {
   position:absolute;
   left:0px;
   top:420px;
   width:1024px;
   height:70px;
 }
-#u136-8 {
+#u396-8 {
   position:absolute;
   left:0px;
   top:490px;
   width:1024px;
   height:70px;
 }
-#u136-9 {
+#u396-9 {
   position:absolute;
   left:0px;
   top:560px;
   width:1024px;
   height:70px;
 }
-#u136-10 {
+#u396-10 {
   position:absolute;
   left:0px;
   top:630px;
   width:1024px;
   height:70px;
 }
-#u136 {
+#u396 {
   position:absolute;
   left:0px;
   top:34px;
@@ -289,4 +289,60 @@
   background-color:rgba(255, 255, 255, 0);
   border:none;
   border-radius:0px;
+}
+#u405_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:83px;
+  height:35px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FontAwesome';
+  font-weight:410;
+  font-style:normal;
+  text-align:left;
+}
+#u405 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:83px;
+  height:35px;
+  font-family:'FontAwesome';
+  font-weight:410;
+  font-style:normal;
+  text-align:left;
+}
+#u405_div.mouseDown {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:83px;
+  height:35px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FontAwesome';
+  font-weight:410;
+  font-style:normal;
+  text-align:left;
+}
+#u405.mouseDown {
+}
+#u406 {
+  position:absolute;
+  left:20px;
+  top:10px;
+  width:61px;
+  word-wrap:break-word;
 }

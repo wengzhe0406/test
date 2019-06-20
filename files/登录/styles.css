@@ -278,8 +278,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome Regular', 'FontAwesome';
-  font-weight:400;
+  font-family:'FontAwesome';
+  font-weight:410;
   font-style:normal;
   font-size:100px;
   color:#CCCCCC;
@@ -291,8 +291,8 @@
   top:90px;
   width:160px;
   height:160px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
-  font-weight:400;
+  font-family:'FontAwesome';
+  font-weight:410;
   font-style:normal;
   font-size:100px;
   color:#CCCCCC;
